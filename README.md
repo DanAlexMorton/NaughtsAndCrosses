@@ -12,5 +12,5 @@ I have created a test project as well using xUnit to test the outcomes. There wi
 - Do you want to play again functionality.
 
 
-If I was to spend more time I would add additional tests to take into account if the player chooses an already chosen square. 
+If I was to spend more time I would also add additional tests to take into account if the player chooses an already chosen square. 
 
