@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NaughtsAndCrosses", "NaughtsAndCrosses\NaughtsAndCrosses.csproj", "{1AE03F01-35DA-495A-9DC9-82624A12CC6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNaughtsAndCrosses", "TestNaughtsAndCrosses\TestNaughtsAndCrosses.csproj", "{AF43875B-4E16-48FD-A996-F75D0D3EEF93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AE03F01-35DA-495A-9DC9-82624A12CC6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE03F01-35DA-495A-9DC9-82624A12CC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE03F01-35DA-495A-9DC9-82624A12CC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE03F01-35DA-495A-9DC9-82624A12CC6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF43875B-4E16-48FD-A996-F75D0D3EEF93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF43875B-4E16-48FD-A996-F75D0D3EEF93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF43875B-4E16-48FD-A996-F75D0D3EEF93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF43875B-4E16-48FD-A996-F75D0D3EEF93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F53FF791-D357-4576-88D3-0EDA2E9E020B}
+	EndGlobalSection
+EndGlobal
